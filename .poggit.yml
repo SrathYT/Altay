@@ -24,7 +24,7 @@ class dot_poggit_dot_yml{
 	"build-by-default": bool = true
 
 	projects: {
-		[projectName: string]: {
+		[projectName: string]: { Atlay
 			/**
 			 * Path of the subdirectory containing the project, relative to the repo root.
 			 * Leading and trailing slashes are optional.
